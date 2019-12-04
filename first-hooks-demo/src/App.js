@@ -1,9 +1,10 @@
 import React from 'react';
-import Toggler from "./Toggler"
-import SimpleFormClass from "./SimpleFormClass"
-import SimpleFormHooks from "./SimpleFormHooks"
-import SimpleFormInputHooks from "./SimpleFormInputHooks"
-import Clicker from "./Clicker"
+// import Toggler from "./Toggler"
+// import SimpleFormClass from "./SimpleFormClass"
+// import SimpleFormHooks from "./SimpleFormHooks"
+// import SimpleFormInputHooks from "./SimpleFormInputHooks"
+// import Clicker from "./Clicker"
+import SWMovies from "./SWMovies"
 import './App.css';
 
 
@@ -13,8 +14,9 @@ function App() {
       {/* <Toggler />
       <SimpleFormClass />
       <SimpleFormHooks />
-      <SimpleFormInputHooks /> */}
-      <Clicker />
+      <SimpleFormInputHooks />
+      <Clicker /> */}
+      <SWMovies />
     </div>
   );
 }
